@@ -1,0 +1,2 @@
+# DartIleNesneTabanli
+Kalıtım Çalışması
